@@ -13,7 +13,7 @@ const About = () => {
 				de la Universidad Nacional de La Plata.</p>
 		    </div>
 		    <div className="about-img">
-				<img src={imagenPerfil} />
+				<img src={imagenPerfil} alt="description of image"/>
 		    </div>
 		</div>
 	);
