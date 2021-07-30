@@ -8,7 +8,7 @@ const Navbar =({isScrolling}) => {
 	return (
 		<nav className={`navbar ${isScrolling > 10 ? "scrolling" : null}`}>
 			<div className="navbar-logo" onClick={toTheTop}>
-				Informacion
+				About me
 			</div>
 		</nav>
 
