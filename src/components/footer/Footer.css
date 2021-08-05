@@ -46,15 +46,15 @@
 
 }
 
-.linkedin,.twitter,.facebook,.instagram,.whatsapp{
+.linkedin,.github,.whatsapp,.gmail{
 	color: white;
-	font-size: 35px;
+	font-size: 45px;
 	margin: 0 auto;
 	padding-bottom: 10px;
 	border-bottom: 4px solid transparent;
 }
 
-.linkedin:hover,.twitter:hover,.facebook:hover,.instagram:hover,.whatsapp:hover{
+.linkedin:hover,.github:hover,.whatsapp:hover,.gmail:hover{
 	border-color: white;
 	transition: all 0.3s ease-out;
 }

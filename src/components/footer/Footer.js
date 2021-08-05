@@ -20,19 +20,15 @@ const Footer = () => {
 		  			<a href="https://ar.linkedin.com/in/victoria-escudero-905896164" target="_blank" rel="noreferrer">
 		  				<i className="fab fa-linkedin linkedin"></i>
 		  			</a>
-		  			<a href="https://twitter.com" target="_blank" rel="noreferrer">
-		  				<i className="fab fa-twitter twitter"></i>
-		  			</a>
-		  			<a href="https://www.instagram.com/vickiescuderoo/" target="_blank" rel="noreferrer">
-		  				<i className="fab fa-instagram instagram"></i>
+		  			<a href="https://github.com/victoriaescude2" target="_blank" rel="noreferrer">
+		  				<i className="fab fa-github github"></i>
 		  			</a>	
-		  			<a href="https://facebook.com" target="_blank" rel="noreferrer">
-		  				<i className="fab fa-facebook facebook"></i>
-		  			</a>
-		  			<a href="https://api.whatsapp.com/send?phone=542296421027" target="_blank" rel="noreferrer">
+					<a href="https://api.whatsapp.com/send?phone=542296421027" target="_blank" rel="noreferrer">
 		  				<i className="fab fa-whatsapp whatsapp"></i>
+		  			</a>  
+		  			<a href="mailto:victoriaescudero99@gmail.com" target="_blank" rel="noreferrer">
+		  				<i className="far fa-envelope gmail"></i>
 		  			</a>
-
 		  		</div>		
 			</div>
 		</footer>
